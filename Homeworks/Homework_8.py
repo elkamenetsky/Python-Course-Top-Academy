@@ -22,6 +22,7 @@ print(function([99, 39, 99, 100, 34]))
 # Задание 2
 crt = ('ab', 'abcd', 'cde', 'abc', 'def')
 s = 'ab'
+
 if s in crt:
     print('Yes')
 else:
